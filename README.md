@@ -1,7 +1,7 @@
 # 📦 PapihaOS Project
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="300" alt="PapihaOS Logo"><br>
+  <img src="https://githubusercontent.com PapihaOS Logo.jpg" width="300" alt="PapihaOS Logo"><br>
   <b>Ultra-lightweight, high-performance custom Android firmware line for legacy and low-end devices.</b>
 </p>
 
