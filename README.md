@@ -26,7 +26,7 @@
 | **MTC SMART START** | 🟡 PLANNED | — | MTS_Stock_FT_1.0.3 |
 | **Nokia X** | 🟡 PLANNED | — | CyanogenMOD 10 RUS for Nokia X |
 | **Samsung Galaxy Y Duos GT-S6102** | 🟡 PLANNED | — | DarkRom |
-| **ZTE Blade AF3/A5** | 🟢 RELEASED | 1.0 | [Download]() (Port from Ark Benefit S451 AOSP) |
+| **ZTE Blade AF3/A5** | 🟢 RELEASED | 1.0 | [Download](https://github.com/papiha-projects/PapihaOS/releases/tag/1.0-zte-af3) (Port from Ark Benefit S451 AOSP) |
 | **ZTE Blade A3** | 🟡 PLANNED | — | AOSP v1.0.4 |
 | **ZTE Blade A5 PRO** | 🟡 PLANNED | — | FULL Stock Unlock v1.0.3 |
 | **Micromax D303** | 🟡 PLANNED | — | SW_V11_HW_V1.0_22052015 |
