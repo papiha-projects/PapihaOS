@@ -31,7 +31,7 @@
 | **ZTE Blade A5 PRO** | 🟡 PLANNED | — | FULL Stock Unlock v1.0.3 |
 | **Micromax D303** | 🟡 PLANNED | — | SW_V11_HW_V1.0_22052015 |
 | **Micromax D200** | 🟡 PLANNED | — | Russia_D200_SW_V0.0.9_HW_V1.0_090515 |
-| **Lenovo A1000** | 🟢 RELEASED | 1.0.2 (FIX) | [Download]() (AOSP 5.0, 4PDA Released) |
+| **Lenovo A1000** | 🟢 RELEASED | 1.0.2 (FIX) | [Download](https://github.com/papiha-projects/PapihaOS/releases/tag/v1.0.2-lenovo-a1000) (AOSP 5.0, 4PDA Released) |
 | **Micromax Q346** | 🟡 PLANNED | — | SW_V009_HW_V2.0_20160114 |
 | **Samsung Galaxy Mega 5.8 I9152** | 🔴 CANCELLED | — | Broadcom Capri CPU boot-lock. Defective eMMC partition sizing. |
 | **ARK Benefit M1** | 🔴 CANCELLED | — | Can't find working factory firmware for this phone. |
