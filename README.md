@@ -21,16 +21,16 @@
 
 | Device | Status | Download Link | Version | Firmware basis / Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Fly IQ431** | 🟡 PAUSED | — | — | Firmware paused for this reason: My phones don't have batteries. Once I buy one, I'll continue developing the firmware. |
+| **Fly IQ431** | 🟠 PAUSED | — | — | Firmware paused for this reason: My phones don't have batteries. Once I buy one, I'll continue developing the firmware. |
 | **Alcatel POP C5 5036D** | 🟡 PLANNED | — | — | 01008_FT_Light |
 | **MTC SMART START** | 🟡 PLANNED | — | — | MTS_Stock_FT_1.0.3 |
 | **Nokia X** | 🟡 PLANNED | — | — | CyanogenMOD 10 RUS for Nokia X |
-| **Samsung Galaxy Y Duos GT-S6102** | 🟡 PAUSED | — | — | Firmware paused for this reason: The matrix on my phone died, it lights up white. Firmware development will continue after the matrix is replaced. |
+| **Samsung Galaxy Y Duos GT-S6102** | 🟠 PAUSED | — | — | Firmware paused for this reason: The matrix on my phone died, it lights up white. Firmware development will continue after the matrix is replaced. |
 | **ZTE Blade AF3/A5** | 🟢 RELEASED | [Download](https://github.com/papiha-projects/PapihaOS/releases#release-1.0-zte-af3) | 1.0 | Port from Ark Benefit S451 (AOSP) |
 | **ZTE Blade A3** | 🟡 PLANNED | — | — | ZTE_CN_QB18D_P172R12V1.0.0B09/AOSP |
 | **ZTE Blade A5 PRO** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: The eMMC memory or processor on my phone is dead. |
 | **Micromax D303** | 🟡 PLANNED | — | — | SW_V11_HW_V1.0_22052015 |
-| **Micromax D200** | 🟡 PAUSED | — | — | Firmware paused for this reason: The charging port on my phone died. Firmware development has been temporarily paused and will resume after the port is replaced. |
+| **Micromax D200** | 🟠 PAUSED | — | — | Firmware paused for this reason: The charging port on my phone died. Firmware development has been temporarily paused and will resume after the port is replaced. |
 | **Lenovo A1000** | 🟢 RELEASED | [Download](https://github.com/papiha-projects/PapihaOS/releases#release-v1.0.2-lenovo-a1000) | 1.0.2 (FIX) | AOSP 5.0 |
 | **Micromax Q346** | 🟡 PLANNED | — | — | SW_V009_HW_V2.0_20160114 |
 | **Samsung Galaxy Mega 5.8 I9152** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: Broadcom Capri CPU boot-lock. Defective eMMC factory partition sizing and capricious bootloader structure. |
