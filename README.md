@@ -23,9 +23,9 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Fly IQ431** | 🟠 PAUSED | — | — | Firmware paused for this reason: My phones don't have batteries. Once I buy one, I'll continue developing the firmware. |
 | **Alcatel POP C5 5036D** | 🟡 PLANNED | — | — | 01008_FT_Light |
-| **MTC SMART START** | 🟡 PLANNED | — | — | MTS_Stock_FT_1.0.3 |
-| **Nokia X** | 🟡 PLANNED | — | — | CyanogenMOD 10 RUS for Nokia X |
-| **Samsung Galaxy Y Duos GT-S6102** | 🟠 PAUSED | — | — | Firmware paused for this reason: The matrix on my phone died, it lights up white. Firmware development will continue after the matrix is replaced. |
+| **MTC SMART START** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: All batteries and emmc died on my all phones. |
+| **Nokia X** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: Emmc on my phone died |
+| **Samsung Galaxy Y Duos GT-S6102** | 🔴 CANCELLED | — | — | Firmware paused for this reason: My phone turned out to be flooded and there is no point in restoring and replacing the matrix.. |
 | **ZTE Blade AF3/A5** | 🟢 RELEASED | [Download](https://github.com/papiha-projects/PapihaOS/releases#release-1.0-zte-af3) | 1.0 | Port from Ark Benefit S451 (AOSP) |
 | **ZTE Blade A3** | 🟡 PLANNED | — | — | ZTE_CN_QB18D_P172R12V1.0.0B09/AOSP |
 | **ZTE Blade A5 PRO** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: The eMMC memory or processor on my phone is dead. |
@@ -35,7 +35,7 @@
 | **Micromax Q346** | 🟡 PLANNED | — | — | SW_V009_HW_V2.0_20160114 |
 | **Samsung Galaxy Mega 5.8 I9152** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: Broadcom Capri CPU boot-lock. Defective eMMC factory partition sizing and capricious bootloader structure. |
 | **ARK Benefit M1** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: I can't found firmware for this phone. |
-| **Fly IQ239** | 🟡 PLANNED | — | — | sw19, sw20, sw22 |
+| **Fly IQ239** | 🟠 PAUSED | — | — | Firmware paused for this reason: The touchscreen and battery on my phone died. Firmware development will continue after the touchscreen and battery is replaced. |
 | **Alcatel One Touch S'POP 4030D** | 🟡 PLANNED | — | — | 4030D_140814 |
 | **Eltex NV-501 (PapihaOS Console Mod)** | 🔴 CANCELLED | — | — | Firmware canceled for this reason: Locked operator bootloader with security signatures blocks any local update files. Completely bypassed over the air via ADB console. |
 
