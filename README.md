@@ -26,7 +26,7 @@
 | **MTC SMART START** | 🔴 `CANCELLED` | — | — | Firmware canceled for this reason: All batteries and emmc died on my all phones. |
 | **Nokia X** | 🔴 `CANCELLED` | — | — | Firmware canceled for this reason: Emmc on my phone died |
 | **Samsung Galaxy Y Duos GT-S6102** | 🔴 `CANCELLED` | — | — | Firmware canceled for this reason: My phone turned out to be flooded and there is no point in restoring and replacing the matrix. |
-| **ZTE Blade AF3/A5** | 🟢 `RELEASED` | [Download](https://github.com/papiha-projects/PapihaOS/releases#release-1.0-zte-af3) | 1.0 | Port from Ark Benefit S451 (AOSP) |
+| **ZTE Blade AF3/A5** | 🟢 `RELEASED` | [Download](https://github.com/papiha-projects/PapihaOS/releases#release-release-1.0.1-zte-af3) | 1.0.1 | Port from Ark Benefit S451 (AOSP) |
 | **ZTE Blade A3** | 🟡 `PLANNED` | — | — | ZTE_CN_QB18D_P172R12V1.0.0B09/AOSP |
 | **ZTE Blade A5 PRO** | 🔴 `CANCELLED` | — | — | Firmware canceled for this reason: The eMMC memory or processor on my phone is dead. |
 | **Micromax D303** | 🟡 `PLANNED` | — | — | SW_V11_HW_V1.0_22052015 |
